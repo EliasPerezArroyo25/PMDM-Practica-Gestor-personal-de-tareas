@@ -149,6 +149,11 @@ com.example.gestorpersonaldetareas
 
 ## Enlace al chat de IA usado durante el desarrollo
 
+[Ver historial completo del chat con Gemini (PDF)](https://drive.google.com/file/d/11owEpgkU9i3vTk2OP3f7zOkRaTxSwb2w/view?usp=sharing)
+
+
+No me permite compartir el enlace (https://gemini.google.com/share/d/1RcnZjYjJShR1_-Gx3qdZWgUPldvXG3pA?usp=sharing)
+
 ## Incidencias conocidas o funcionalidades que no se hayan podido completar
 
 * **Problemas de compilación ocurridos durante el desarrollo (resueltos):**
