@@ -152,7 +152,7 @@ com.example.gestorpersonaldetareas
 [Ver historial completo del chat con Gemini (PDF)](https://drive.google.com/file/d/11owEpgkU9i3vTk2OP3f7zOkRaTxSwb2w/view?usp=sharing)
 
 
-No me permite compartir el enlace (https://gemini.google.com/share/d/1RcnZjYjJShR1_-Gx3qdZWgUPldvXG3pA?usp=sharing)
+Puede que el enlace compartido no funcione (https://gemini.google.com/share/d/1RcnZjYjJShR1_-Gx3qdZWgUPldvXG3pA?usp=sharing)
 
 ## Incidencias conocidas o funcionalidades que no se hayan podido completar
 
