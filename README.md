@@ -1,6 +1,5 @@
 # Gestor Personal de Tareas
 
-## Nombre y descripción de la aplicación
 
 **Gestor Personal de Tareas** es una aplicación nativa para Android desarrollada en Kotlin y Jetpack Compose. Permite gestionar tareas personales de forma local con persistencia reactiva en base de datos, filtrar tareas pendientes mediante preferencias persistentes, importar sugerencias desde una API REST externa y compartir tareas con otras aplicaciones instaladas en el dispositivo.
 
@@ -133,19 +132,20 @@ com.example.gestorpersonaldetareas
 
 ### 1. Listado principal de tareas
 
-*(Incluye aquí una captura mostrando varias tareas con distintas prioridades, alguna marcada como completada y la barra superior con el interruptor de filtro).*
+<img width="463" height="740" alt="imagen" src="https://github.com/user-attachments/assets/1928c37b-9112-41e3-ba7d-9ae0eddeae48" />
 
 ### 2. Formulario de creación / edición de tarea
 
-*(Incluye aquí una captura del formulario con el desplegable de prioridades abierto o mostrando la validación del título obligatorio).*
+<img width="462" height="737" alt="imagen" src="https://github.com/user-attachments/assets/95fc7fc9-f395-46bf-bfac-3d058da6f28d" />
 
 ### 3. Consulta a la API externa (Sugerencias)
 
-*(Incluye aquí una captura de la pantalla de sugerencias cargadas desde JSONPlaceholder con sus botones de importar).*
+<img width="459" height="736" alt="imagen" src="https://github.com/user-attachments/assets/e4a8913d-b208-4ede-b8fe-0719eed83402" />
 
-### 4. Interacción relevante: Compartir tarea mediante Intent nativo
+### 4.Compartir tarea mediante Intent nativo
 
-*(Incluye aquí una captura tras pulsar "Compartir" en una tarjeta, mostrando el panel inferior nativo de Android —Sharesheet— con la vista previa del texto formateado).*
+<img width="461" height="738" alt="imagen" src="https://github.com/user-attachments/assets/707312f5-5b2b-4725-a853-03f5abbd1f71" />
+
 
 ## Enlace al chat de IA usado durante el desarrollo
 
